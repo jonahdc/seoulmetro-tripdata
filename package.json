@@ -1,0 +1,17 @@
+{
+  "name": "smtd",
+  "version": "1.0.0",
+  "description": "Exposes functions to query Seoul Metro Cyber Station",
+  "main": "smdg.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "seoul",
+    "metro",
+    "data",
+    "trip"
+  ],
+  "author": "jonahdc",
+  "license": "ISC"
+}

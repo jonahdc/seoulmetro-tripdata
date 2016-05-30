@@ -1,0 +1,24 @@
+{
+  "name": "smtd",
+  "description": "Exposes functions to query Seoul Metro Cyber Station",
+  "main": "smdg.js",
+  "authors": [
+    "jonahdc"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "smdg"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "install": {
+    "path": "libs"
+  }
+}
