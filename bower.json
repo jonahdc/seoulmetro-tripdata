@@ -19,6 +19,6 @@
     "tests"
   ],
   "install": {
-    "path": "libs"
+    "path": "test/libs"
   }
 }
